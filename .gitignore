@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# AI Studio or local configs
+.metadata/
+*.log
+.env

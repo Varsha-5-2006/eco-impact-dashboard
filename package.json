@@ -1,0 +1,24 @@
+{
+  "name": "eco-impact-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.7.2",
+    "lucide-react": "^0.259.0",
+    "framer-motion": "^10.12.16"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0",
+    "typescript": "^5.2.2",
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.30",
+    "autoprefixer": "^10.4.14"
+  }
+}

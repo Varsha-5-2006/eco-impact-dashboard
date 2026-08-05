@@ -1,23 +1,66 @@
-<<<<<<< HEAD
-# EcoImpact Dashboard
+# 🌱 EcoImpact Dashboard
 
-🌱 **EcoImpact Dashboard** is an interactive React app that visualizes low‑carbon case studies.
+A modern web dashboard that visualizes carbon emissions and sustainability data through interactive charts and insights. It helps users understand environmental impact, compare sector performance, and explore key sustainability metrics.
 
-## Features
+## ✨ Features
 
-- CO₂ reduction metrics and KPIs
-- Monthly CO₂ reduction trends
-- Sector distribution charts
-- Case study summaries
-- Optional world map visualization
-- Filter by sector
+📊 Interactive dashboard
 
-## Installation
+🌍 Sector-wise carbon emission analysis
 
-```bash
-npm install
-npm run dev
-=======
-# eco-impact-dashboard
-“Interactive React dashboard visualizing CO₂ reduction and sustainability case studies.”
->>>>>>> 7e980a1e85f3ca8f3447f4044bb5dbd20a29f1cb
+📈 Emission trend visualization
+
+♻️ Carbon footprint insights
+
+💰 Sustainability metrics
+
+📱 Responsive and user-friendly interface
+
+🎨 Modern dashboard design
+
+⚡ Fast and smooth performance
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Recharts
+- Framer Motion
+- Lucide React
+
+---
+
+## 📂 Project Structure
+
+```
+eco-impact-dashboard/
+│── public/
+│── src/
+│── index.html
+│── package.json
+│── package-lock.json
+│── tsconfig.json
+│── vite.config.ts
+│── README.md
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+- Built an interactive dashboard using React and TypeScript
+- Developed responsive user interfaces with Tailwind CSS
+- Visualized sustainability data using interactive charts
+- Improved front-end development and data presentation skills
+
+---
+
+## 👩‍💻 Author
+
+**Varsha S**
+
+GitHub: https://github.com/Varsha-5-2006
